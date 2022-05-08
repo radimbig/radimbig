@@ -2,9 +2,9 @@
 - 👀 I’m interested in lot of javascript stuff such as Nodejs React etc.
 - 🌱 I’m currently learning React
 - contacts:
-- instagram.com/radimbig
+- https://instagram.com/radimbig
 - t.me/radimbig
-- facebook.com/radimvadim
+- facebook.com/radimvadim1
 
 <!---
 radimbig/radimbig is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
