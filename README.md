@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning React
 - contacts:
 - https://instagram.com/radimbig
-- t.me/radimbig
-- facebook.com/radimvadim1
+- https://t.me/radimbig
+- https://facebook.com/radimvadim1
 
 <!---
 radimbig/radimbig is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
