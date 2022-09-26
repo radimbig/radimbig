@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @radimbig
 - 👀 I’m interested in lot of javascript stuff such as Nodejs React etc.
 - 🌱 I’m currently learning React
-- contacts:
+- 💻 contacts:
 - https://instagram.com/radimbig
 - https://t.me/radimbig
 - https://facebook.com/radimvadim1
