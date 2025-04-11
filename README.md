@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @radimbig
 - 👀 I’m interested in lot of javascript/C# stuff such as Nodejs, React, ASP.NET etc.
-- 🌱 I’m currently learning React and C#
+- 🌱 I’m currently interested in C# and ReactJs
 - 💻 contacts:
   - [Linkedin](https://www.linkedin.com/in/radimbig/)
   - [Instagram](https://instagram.com/radimbig)
